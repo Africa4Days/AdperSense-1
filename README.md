@@ -9,7 +9,7 @@ zip of all of the tensorflow and react files**
 https://drive.google.com/file/d/1YvguE_Bdsy4tBfpgSKkL10Q8wr_Gm7as/view?usp=sharing
 
 ### Built With
-AdperSense is constructed with Google's Tensorflow, MIT's React, NodeJS, Javascript, and Python
+AdperSense is constructed with Google's Tensorflow, Facebook's React, NodeJS, JavaScript, and Python
 
 ### Purpose
 Using machine learning, advertisments are anyalized based on data survayed from users.  
